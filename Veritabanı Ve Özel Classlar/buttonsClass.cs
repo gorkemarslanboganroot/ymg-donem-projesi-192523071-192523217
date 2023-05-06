@@ -13,8 +13,7 @@ namespace VeritabanıGörsel
         public int BorderSize { get { return borderSize; this.Invalidate(); } set => borderSize = value; }
         public int BorderRadius { get { return borderRadius; this.Invalidate(); } set => borderRadius = value; }
         public Color BorderColor { get { return borderColor; this.Invalidate(); } set => borderColor = value; }
-        // public Color BackgroundColor { get { return this.BackgroundColor; } set { { this.BackColor = value; } } }
-        // public Color TextColor { get { return this.ForeColor; } set  { this.ForeColor = value; } }
+        
         public buttonsClass()
         {
             this.FlatStyle = FlatStyle.Flat;

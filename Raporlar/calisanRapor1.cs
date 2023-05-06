@@ -44,7 +44,7 @@ namespace VeritabanıGörsel.Raporlar {
                 return "VeritabanıGörsel.Raporlar.calisanRapor.rpt";
             }
             set {
-                // Do nothing
+             
             }
         }
         
